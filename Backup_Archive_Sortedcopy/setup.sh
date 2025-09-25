@@ -1,6 +1,4 @@
 #!/bin/bash
-#Ece Goksu
-#ID: 261138642
 
 if [[ $1 = "backup" ]]
 then
